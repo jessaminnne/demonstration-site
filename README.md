@@ -1,5 +1,5 @@
 # demonstration-site
-HTML and CSS for DIG UXD Fellowship application.
+HTML and CSS for DIG UXD Fellowship application. All pages created by Jessamine Bartley-Matthews, September 2015.
 
 Files include:
 * index.html: This is the homepage of the demonstration site, which will load automatically.
